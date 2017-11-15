@@ -1,0 +1,16 @@
+{
+    "name": "MAX6675",
+    "version": "1.0.0",
+    "keywords": "MAX6675",
+    "description": "MAX6675(冷端补偿K型热电偶数据转换器芯片)驱动库",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/intoyuniot/MAX6675.git"
+    },
+    "authors": {
+        "name": "robin",
+        "email": "robin@molmc.com"
+    },
+    "frameworks": "arduino",
+    "platforms": "*"
+}
